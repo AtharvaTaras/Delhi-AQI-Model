@@ -1,6 +1,12 @@
 #mine
 data/punjab_fire_2020-2024.csv
 data/delhi_air_quality_feature_store_unprocessed.csv
+data/telemetry_weather_2021-2025.csv
+data/nasa_fire_dataset.csv
+data/ml_df_processed.csv
+data/full_merged_with_aqi.csv
+data/full_merged.csv
+data/fire_archive_J1V-C2_696273.csv
 
 
 # Byte-compiled / optimized / DLL files
